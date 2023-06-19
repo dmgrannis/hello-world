@@ -1,5 +1,5 @@
 # Header
 
-** Bolded text **
+**Bolded text**
 
-~~ Struck-through text ~~
+~~Struck-through text~~
